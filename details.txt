@@ -1,0 +1,6 @@
+Details About the features:
+1. Temperature: temperature noon (temperature max) in Celsius degrees.
+2. Ws: Wind speed in km/h
+3. FFMC: Fine Fuel Moisture Code (FFMC) index from the FWI system.
+4. DMC: Duff Moisture Code (DMC) index from the FWI system.
+5. ISI: Initial Spread Index (ISI) index from the FWI system.
