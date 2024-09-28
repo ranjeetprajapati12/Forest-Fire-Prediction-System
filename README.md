@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aravind9722">
+  <a href="https://github.com/ranjeetprajapati12/Forest-Fire-Prediction-System">
     <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
   </a>
 
@@ -21,11 +21,6 @@
 * **Sklearn** for pre-processing and Model Building
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
-## Deployed app
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
-
-[LINK TO HEROKU APP](https://forest-fire-predictionv1.herokuapp.com/)
 
 <!-- GETTING STARTED -->
 ## Introduction
@@ -99,18 +94,13 @@
 
 
 <!-- CONTACT -->
-## Contact
-[![Aravind Selvam | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Aravind Selvam | G Mail](https://img.shields.io/badge/aravind9722-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![GodWin1100 | GitHub](https://img.shields.io/badge/aravind-eeeeee?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&labelColor=blue)][reach_outlook]
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS  -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/ranjeetprajapati12/
 
 <!-- Tools Used -->
 [PyCharm]: https://code.visualstudio.com/
@@ -125,6 +115,5 @@
 [sklearn]: https://scikit-learn.org/stable/
 
 <!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aravind-selvam/
-[reach_gmail]: mailto:aravind9722@gmail.com?subject=Github
-[reach_outlook]: mailto:aravind_selvam@outlook.com
+[reach_linkedin]: https://www.linkedin.com/in/ranjeetprajapati12/
+[reach_gmail]: mailto:ranjeetprajapati@gmail.com?subject=Github

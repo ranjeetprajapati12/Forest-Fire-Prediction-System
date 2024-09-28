@@ -25,7 +25,7 @@ list_cursor = dbcon.getdata(dbName='FireDataML', collectionName='ml_task')
 log.info('Connected to Mongodb and data retrieved')
 
 # Data From MongoDB is used for Standardization'''
-df = pd.read_csv(r"C:\Users\Ranjeet-Prajapati\Desktop\AI Project\Forest Fire Prediction Project\CODE FILE\dataset\Algerian_forest_fires_dataset_CLEANED.csv")
+df = pd.read_csv(r"D:\AI Project\Forest Fire Prediction Project\CODE FILE\dataset\Algerian_forest_fires_dataset_CLEANED.csv")
 #df.drop('_id', axis=1, inplace=True)
 log.info('DataFrame created')
 print("running good....")
